@@ -1,4 +1,14 @@
 # Coding Challenge
+
+## Compensation JSON example :
+{
+  "employee": {
+      "employeeId": "16a596ae-edd3-4847-99fe-c4518e82c86f"
+  },
+  "salary": "70000",
+  "effectiveDate": "2020-01-01T00:00:00"
+}
+
 ## What's Provided
 A simple [Spring Boot](https://projects.spring.io/spring-boot/) web application has been created and bootstrapped 
 with data. The application contains information about all employees at a company. On application start-up, an in-memory 
